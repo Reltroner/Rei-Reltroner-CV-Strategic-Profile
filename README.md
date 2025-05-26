@@ -45,7 +45,7 @@ If you're looking for someone who can build not just code — but meaning, struc
 
 For direct collaborations, roles, or merit-based partnerships:
 
-📧 reltroner.studio[at]gmail[dot]com  
+📧 reltroner@gmail.com
 🌐 [https://reltroner.com](https://reltroner.com)  
 🧠 Red Pill / Astralis-aligned teams only.
 
