@@ -57,6 +57,6 @@ For direct collaborations, roles, or merit-based partnerships:
 
 ![Level](https://img.shields.io/badge/Level-Specialist-blueviolet?style=for-the-badge&logo=git)
 ![Verification](https://img.shields.io/badge/Verified-via%20Execution-success?style=for-the-badge&logo=laravel)
-![Stack](https://img.shields.io/badge/Stack-Laravel%20%7C%20Inertia%20%7C%20Tailwind-critical?style=for-the-badge&logo=laravel)
+![Stack](https://img.shields.io/badge/Stack-Laravel%20%7C%20Blade%20%7C%20Tailwind-critical?style=for-the-badge&logo=laravel)
 ![Builder Mode](https://img.shields.io/badge/Mode-Hyper%20Efficient%20Builder-ff69b4?style=for-the-badge&logo=github)
 
