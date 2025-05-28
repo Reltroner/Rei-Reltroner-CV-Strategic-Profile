@@ -16,7 +16,7 @@ This CV covers:
 
 - ✅ Fullstack engineering experience  
 - ✅ Live platform: [reltroner.com](https://reltroner.com)  
-- ✅ Laravel-based HRM (ongoing, modular)  
+- ✅ Laravel-based HRM [reltroner-hr-app.git](https://github.com/Reltroner/reltroner-hr-app.git)
 - ✅ GitHub-based CI/CD workflows  
 - ✅ Red Pill–driven leadership clarity  
 - ✅ Role fit for: System Architect / Culture Strategist / Visionary Engineer
@@ -46,7 +46,7 @@ If you're looking for someone who can build not just code — but meaning, struc
 For direct collaborations, roles, or merit-based partnerships:
 
 📧 reltroner@gmail.com
-🌐 [https://reltroner.com](https://reltroner.com)  
+🌐 [https://reltroner.com](https://www.reltroner.com/blog/for-recruiters) 
 🧠 Red Pill / Astralis-aligned teams only.
 
 ---
