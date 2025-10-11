@@ -27,7 +27,7 @@ This CV covers:
 
 You can download the full PDF below:
 
-[📥 Download Rei Reltroner – CV (PDF)](./Rei-Reltroner-Profile.pdf)
+[📥 Download Rei Reltroner – CV (PDF)](./Raidan_Sandra_Resume.pdf)
 
 ---
 
