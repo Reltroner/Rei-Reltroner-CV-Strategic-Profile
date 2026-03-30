@@ -30,7 +30,7 @@ Systems-oriented Backend Engineer dedicated to building **reliable, modular, and
 ### **DevOps & Infrastructure**
 * **CI/CD:** GitHub Actions (Automated Testing & Deployment).
 * **Containerization:** Docker & Environment Hardening.
-* **Deployment:** Hybrid Hosting (Vercel Frontend + Hostinger/VPS Backend), DNS & SSL Management.
+* **Deployment:** Hybrid Hosting (Vercel Frontend + Hostinger Backend), DNS & SSL Management.
 
 ---
 
