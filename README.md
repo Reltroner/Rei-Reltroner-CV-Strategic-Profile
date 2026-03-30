@@ -1,4 +1,4 @@
-# 🌌 Raidan Sandra (Rei Reltroner)
+# ⭐ Raidan Sandra (Rei Reltroner)
 ### Backend Engineer & System Architect
 
 <p align="left">
